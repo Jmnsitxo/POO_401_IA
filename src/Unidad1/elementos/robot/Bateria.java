@@ -7,7 +7,10 @@ public class Bateria {
     public static void main(String[] args) {
         Bateria bateria = new Bateria();
     }
-    public void añadirCargador(){
+
+    public void añadirCargador() {
     }
-    public void expandirBateria(){
+
+    public void expandirBateria() {
+    }
 }
