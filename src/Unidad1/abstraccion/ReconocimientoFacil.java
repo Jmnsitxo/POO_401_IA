@@ -3,7 +3,7 @@ package Unidad1.abstraccion;
 public class ReconocimientoFacil extends ModeloIA{
 
     public ReconocimientoFacil() {
-        super(nombre:"version1.0")
+        super(nombre:version"1.0")
     }
     @Override
     public void procesarEntrada(String entrada) {
