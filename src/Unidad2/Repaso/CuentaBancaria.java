@@ -22,7 +22,6 @@ class CuentaBancaria {
         }
     }
 
-    // Getter
     public double getSaldo() {
         return saldo;
     }
